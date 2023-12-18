@@ -1,4 +1,4 @@
-#### **By Macdonald Muhavi 22/09/2023**
+#### **By Macdonald Muhavi 15/12/2023**
 ## Project Description
 #### Grade Generator
     Write a function that prompts the user to input student marks. The 
@@ -31,4 +31,4 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 
 ## Support and contact details
     - email :: macdonaldmuhavi@gmail.com
-    - phone :: +254769124705
+    - phone :: +254727575888
